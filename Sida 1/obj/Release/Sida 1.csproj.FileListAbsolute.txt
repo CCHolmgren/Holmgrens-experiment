@@ -1,0 +1,101 @@
+C:\Documents and Settings\Admin\Mina dokument\Visual Studio 2008\Projects\Sida 1\Sida 1\bin\Release\Sida 1.exe
+C:\Documents and Settings\Admin\Mina dokument\Visual Studio 2008\Projects\Sida 1\Sida 1\bin\Release\Sida 1.pdb
+C:\Documents and Settings\Admin\Mina dokument\Visual Studio 2008\Projects\Sida 1\Sida 1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Mina dokument\Visual Studio 2008\Projects\Sida 1\Sida 1\obj\Release\Sida_1.Form1.resources
+C:\Documents and Settings\Admin\Mina dokument\Visual Studio 2008\Projects\Sida 1\Sida 1\obj\Release\Sida_1.Properties.Resources.resources
+C:\Documents and Settings\Admin\Mina dokument\Visual Studio 2008\Projects\Sida 1\Sida 1\obj\Release\Sida 1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Mina dokument\Visual Studio 2008\Projects\Sida 1\Sida 1\obj\Release\Sida 1.exe
+C:\Documents and Settings\Admin\Mina dokument\Visual Studio 2008\Projects\Sida 1\Sida 1\obj\Release\Sida 1.pdb
+C:\Users\Chrille\Downloads\Sida 1 (1)\Sida 1\Sida 1\bin\Release\Sida 1.exe.config
+C:\Users\Chrille\Downloads\Sida 1 (1)\Sida 1\Sida 1\obj\Release\Sida 1.exe
+C:\Users\Chrille\Downloads\Sida 1 (1)\Sida 1\Sida 1\obj\Release\Sida 1.pdb
+C:\Users\Chrille\Downloads\Sida 1 (1)\Sida 1\Sida 1\bin\Release\Sida 1.exe
+C:\Users\Chrille\Downloads\Sida 1 (1)\Sida 1\Sida 1\bin\Release\Sida 1.pdb
+C:\Users\Chrille\Downloads\Sida 1 (1)\Sida 1\Sida 1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Chrille\Downloads\Sida 1 (1)\Sida 1\Sida 1\obj\Release\Sida_1.Form1.resources
+C:\Users\Chrille\Downloads\Sida 1 (1)\Sida 1\Sida 1\obj\Release\Sida_1.Properties.Resources.resources
+C:\Users\Chrille\Downloads\Sida 1 (1)\Sida 1\Sida 1\obj\Release\ResGen.read.1.tlog
+C:\Users\Chrille\Downloads\Sida 1 (1)\Sida 1\Sida 1\obj\Release\ResGen.write.1.tlog
+C:\Documents and Settings\Admin\Skrivbord\Sida 1 (1)\Sida 1\Sida 1\bin\Release\Sida 1.exe.config
+C:\Documents and Settings\Admin\Skrivbord\Sida 1 (1)\Sida 1\Sida 1\obj\Release\Sida 1.exe
+C:\Documents and Settings\Admin\Skrivbord\Sida 1 (1)\Sida 1\Sida 1\obj\Release\Sida 1.pdb
+C:\Documents and Settings\Admin\Skrivbord\Sida 1 (1)\Sida 1\Sida 1\bin\Release\Sida 1.exe
+C:\Documents and Settings\Admin\Skrivbord\Sida 1 (1)\Sida 1\Sida 1\bin\Release\Sida 1.pdb
+C:\Documents and Settings\Admin\Skrivbord\Sida 1 (1)\Sida 1\Sida 1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Skrivbord\Sida 1 (1)\Sida 1\Sida 1\obj\Release\Sida_1.Form1.resources
+C:\Documents and Settings\Admin\Skrivbord\Sida 1 (1)\Sida 1\Sida 1\obj\Release\Sida_1.Properties.Resources.resources
+C:\Documents and Settings\Admin\Skrivbord\Sida 1 (1)\Sida 1\Sida 1\obj\Release\Sida 1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Sida 1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Sida 1\obj\Release\Sida_1.Form1.resources
+C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Sida 1\obj\Release\Sida_1.Properties.Resources.resources
+C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Sida 1\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Sida 1\obj\Release\ResGen.read.1.tlog
+C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Sida 1\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Sida 1\obj\Release\ResGen.write.1.tlog
+C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Sida 1\bin\Release\Uppsala Universitet Undersökning.exe.config
+C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Sida 1\bin\Release\Uppsala Universitet Undersökning.exe.manifest
+C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Sida 1\bin\Release\Uppsala Universitet Undersökning.application
+C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Sida 1\bin\Release\Uppsala Universitet Undersökning.exe
+C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Sida 1\bin\Release\Uppsala Universitet Undersökning.pdb
+C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Sida 1\obj\Release\Uppsala Universitet Undersökning.exe.manifest
+C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Sida 1\obj\Release\Uppsala Universitet Undersökning.application
+C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Sida 1\obj\Release\Uppsala Universitet Undersökning.exe
+C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Sida 1\obj\Release\Uppsala Universitet Undersökning.pdb
+C:\Documents and Settings\Admin\Skrivbord\Sida 1\Sida 1\Sida 1\bin\Release\Uppsala Universitet Undersökning.exe.config
+C:\Documents and Settings\Admin\Skrivbord\Sida 1\Sida 1\Sida 1\obj\Release\Uppsala Universitet Undersökning.exe
+C:\Documents and Settings\Admin\Skrivbord\Sida 1\Sida 1\Sida 1\obj\Release\Uppsala Universitet Undersökning.pdb
+C:\Documents and Settings\Admin\Skrivbord\Sida 1\Sida 1\Sida 1\bin\Release\Uppsala Universitet Undersökning.exe.manifest
+C:\Documents and Settings\Admin\Skrivbord\Sida 1\Sida 1\Sida 1\bin\Release\Uppsala Universitet Undersökning.application
+C:\Documents and Settings\Admin\Skrivbord\Sida 1\Sida 1\Sida 1\bin\Release\Uppsala Universitet Undersökning.exe
+C:\Documents and Settings\Admin\Skrivbord\Sida 1\Sida 1\Sida 1\bin\Release\Uppsala Universitet Undersökning.pdb
+C:\Documents and Settings\Admin\Skrivbord\Sida 1\Sida 1\Sida 1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Skrivbord\Sida 1\Sida 1\Sida 1\obj\Release\Sida_1.Form1.resources
+C:\Documents and Settings\Admin\Skrivbord\Sida 1\Sida 1\Sida 1\obj\Release\Sida_1.Properties.Resources.resources
+C:\Documents and Settings\Admin\Skrivbord\Sida 1\Sida 1\Sida 1\obj\Release\Sida 1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Skrivbord\Sida 1\Sida 1\Sida 1\obj\Release\Uppsala Universitet Undersökning.exe.manifest
+C:\Documents and Settings\Admin\Skrivbord\Sida 1\Sida 1\Sida 1\obj\Release\Uppsala Universitet Undersökning.application
+C:\Users\Chrille\Desktop\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Chrille\Desktop\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Release\Sida_1.Form1.resources
+C:\Users\Chrille\Desktop\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Release\Sida_1.Properties.Resources.resources
+C:\Users\Chrille\Desktop\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Release\Sida 1.csproj.GenerateResource.Cache
+C:\Users\Chrille\Desktop\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\bin\Release\UUU.exe.config
+C:\Users\Chrille\Desktop\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\bin\Release\UUU.exe.manifest
+C:\Users\Chrille\Desktop\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\bin\Release\UUU.application
+C:\Users\Chrille\Desktop\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\bin\Release\UUU.exe
+C:\Users\Chrille\Desktop\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\bin\Release\UUU.pdb
+C:\Users\Chrille\Desktop\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Release\UUU.exe.manifest
+C:\Users\Chrille\Desktop\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Release\UUU.application
+C:\Users\Chrille\Desktop\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Release\UUU.exe
+C:\Users\Chrille\Desktop\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Release\UUU.pdb
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\bin\Release\UUU.exe.config
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Release\UUU.exe
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Release\UUU.pdb
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\bin\Release\UUU.exe
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\bin\Release\UUU.pdb
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Release\ResolveAssemblyReference.cache
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Release\Sida_1.Form1.resources
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Release\Sida_1.Properties.Resources.resources
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Release\Sida 1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Mina dokument\Downloads\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\bin\Release\UUU.exe.config
+C:\Documents and Settings\Admin\Mina dokument\Downloads\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Release\UUU.exe
+C:\Documents and Settings\Admin\Mina dokument\Downloads\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Release\UUU.pdb
+C:\Documents and Settings\Admin\Mina dokument\Downloads\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\bin\Release\UUU.exe
+C:\Documents and Settings\Admin\Mina dokument\Downloads\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\bin\Release\UUU.pdb
+C:\Documents and Settings\Admin\Mina dokument\Downloads\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Mina dokument\Downloads\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Release\Sida_1.Form1.resources
+C:\Documents and Settings\Admin\Mina dokument\Downloads\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Release\Sida_1.Properties.Resources.resources
+C:\Documents and Settings\Admin\Mina dokument\Downloads\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Release\Sida 1.csproj.GenerateResource.Cache
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Release\ResolveAssemblyReference.cache
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Release\Sida_1.Form1.resources
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Release\Sida_1.Properties.Resources.resources
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Release\Sida 1.csproj.GenerateResource.Cache
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\bin\Release\Holmgrens experiment.exe.config
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\bin\Release\Holmgrens experiment.exe
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\bin\Release\Holmgrens experiment.pdb
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Release\Holmgrens experiment.exe
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Release\Holmgrens experiment.pdb
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\bin\Release\Holmgrens experiment.exe.manifest
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\bin\Release\Holmgrens experiment.application
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Release\Holmgrens experiment.TrustInfo.xml
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Release\Holmgrens experiment.exe.manifest
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Release\Holmgrens experiment.application

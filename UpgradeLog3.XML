@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Sida 1">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Sida 1.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Sida 1.suo">
+</Property><Property Name="Date" Value="den 4 april 2012">
+</Property><Property Name="Time" Value="09:01">
+</Property><Property Name="Log Number" Value="3">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Sida 1.sln" Description="File successfully backed up as C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Backup2\Sida 1.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Sida 1.suo" Description="File successfully backed up as C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Backup2\Sida 1.suo">
+</Event><Event ErrorLevel="0" Project="Sida 1" Source="Sida 1\Sida 1.csproj" Description="Project file successfully backed up as C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Backup2\Sida 1\Sida 1.csproj">
+</Event><Event ErrorLevel="0" Project="Sida 1" Source="Sida 1\Sida 1.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Backup2\Sida 1\Sida 1.csproj.user">
+</Event><Event ErrorLevel="0" Project="Sida 1" Source="Sida 1\CommandLine.cs" Description="File successfully backed up as C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Backup2\Sida 1\CommandLine.cs">
+</Event><Event ErrorLevel="0" Project="Sida 1" Source="Sida 1\Form1.cs" Description="File successfully backed up as C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Backup2\Sida 1\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Sida 1" Source="Sida 1\Form1.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Backup2\Sida 1\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Sida 1" Source="Sida 1\Program.cs" Description="File successfully backed up as C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Backup2\Sida 1\Program.cs">
+</Event><Event ErrorLevel="0" Project="Sida 1" Source="Sida 1\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Backup2\Sida 1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Sida 1" Source="Sida 1\Settings.cs" Description="File successfully backed up as C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Backup2\Sida 1\Settings.cs">
+</Event><Event ErrorLevel="0" Project="Sida 1" Source="Sida 1\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Backup2\Sida 1\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Sida 1" Source="Sida 1\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Backup2\Sida 1\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Sida 1" Source="Sida 1\app.config" Description="File successfully backed up as C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Backup2\Sida 1\app.config">
+</Event><Event ErrorLevel="0" Project="Sida 1" Source="Sida 1\Properties\Settings.settings" Description="File successfully backed up as C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Backup2\Sida 1\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Sida 1" Source="Sida 1\Form1.resx" Description="File successfully backed up as C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Backup2\Sida 1\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Sida 1" Source="Sida 1\Properties\Resources.resx" Description="File successfully backed up as C:\Documents and Settings\Administratör\Skrivbord\Sida 1\Sida 1\Backup2\Sida 1\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Sida 1" Source="Sida 1\Sida 1.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Sida 1" Source="Sida 1\Sida 1.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Sida 1.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Sida 1.sln" Description="Converted">
+</Event></UpgradeLog>

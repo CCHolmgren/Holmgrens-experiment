@@ -1,0 +1,4 @@
+resolution = y
+actualwidth = x
+e.location.x = E
+(E-10)*y/x = value

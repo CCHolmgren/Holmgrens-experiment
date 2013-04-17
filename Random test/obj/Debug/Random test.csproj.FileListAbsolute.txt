@@ -1,0 +1,5 @@
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Random test\bin\Debug\Random test.exe
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Random test\bin\Debug\Random test.pdb
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Random test\obj\Debug\ResolveAssemblyReference.cache
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Random test\obj\Debug\Random test.exe
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Random test\obj\Debug\Random test.pdb

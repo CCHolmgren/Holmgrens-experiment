@@ -1,0 +1,10 @@
+C:\Users\Chrille\Downloads\Sida 1 (1)\Sida 1\Sida 1\bin\x64\Debug\Sida 1.exe.config
+C:\Users\Chrille\Downloads\Sida 1 (1)\Sida 1\Sida 1\bin\x64\Debug\Sida 1.exe
+C:\Users\Chrille\Downloads\Sida 1 (1)\Sida 1\Sida 1\bin\x64\Debug\Sida 1.pdb
+C:\Users\Chrille\Downloads\Sida 1 (1)\Sida 1\Sida 1\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\Chrille\Downloads\Sida 1 (1)\Sida 1\Sida 1\obj\x64\Debug\Sida_1.Form1.resources
+C:\Users\Chrille\Downloads\Sida 1 (1)\Sida 1\Sida 1\obj\x64\Debug\Sida_1.Properties.Resources.resources
+C:\Users\Chrille\Downloads\Sida 1 (1)\Sida 1\Sida 1\obj\x64\Debug\ResGen.read.1.tlog
+C:\Users\Chrille\Downloads\Sida 1 (1)\Sida 1\Sida 1\obj\x64\Debug\ResGen.write.1.tlog
+C:\Users\Chrille\Downloads\Sida 1 (1)\Sida 1\Sida 1\obj\x64\Debug\Sida 1.exe
+C:\Users\Chrille\Downloads\Sida 1 (1)\Sida 1\Sida 1\obj\x64\Debug\Sida 1.pdb

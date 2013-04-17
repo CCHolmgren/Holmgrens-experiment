@@ -1,0 +1,59 @@
+C:\Documents and Settings\Admin\Lokala inställningar\Application Data\Temporary Projects\Sida 1\bin\Debug\Sida 1.exe
+C:\Documents and Settings\Admin\Lokala inställningar\Application Data\Temporary Projects\Sida 1\bin\Debug\Sida 1.pdb
+C:\Documents and Settings\Admin\Lokala inställningar\Application Data\Temporary Projects\Sida 1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Lokala inställningar\Application Data\Temporary Projects\Sida 1\obj\Debug\Sida_1.Form1.resources
+C:\Documents and Settings\Admin\Lokala inställningar\Application Data\Temporary Projects\Sida 1\obj\Debug\Sida_1.Properties.Resources.resources
+C:\Documents and Settings\Admin\Lokala inställningar\Application Data\Temporary Projects\Sida 1\obj\Debug\Sida 1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Lokala inställningar\Application Data\Temporary Projects\Sida 1\obj\Debug\Sida 1.exe
+C:\Documents and Settings\Admin\Lokala inställningar\Application Data\Temporary Projects\Sida 1\obj\Debug\Sida 1.pdb
+C:\Documents and Settings\Admin\Mina dokument\Visual Studio 2008\Projects\Sida 1\Sida 1\obj\Debug\Sida 1.exe
+C:\Documents and Settings\Admin\Mina dokument\Visual Studio 2008\Projects\Sida 1\Sida 1\obj\Debug\Sida 1.pdb
+C:\Documents and Settings\Admin\Mina dokument\Visual Studio 2008\Projects\Sida 1\Sida 1\bin\Debug\Sida 1.exe
+C:\Documents and Settings\Admin\Mina dokument\Visual Studio 2008\Projects\Sida 1\Sida 1\bin\Debug\Sida 1.pdb
+C:\Documents and Settings\Admin\Mina dokument\Visual Studio 2008\Projects\Sida 1\Sida 1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Mina dokument\Visual Studio 2008\Projects\Sida 1\Sida 1\obj\Debug\Sida_1.Form1.resources
+C:\Documents and Settings\Admin\Mina dokument\Visual Studio 2008\Projects\Sida 1\Sida 1\obj\Debug\Sida_1.Properties.Resources.resources
+C:\Documents and Settings\Admin\Mina dokument\Visual Studio 2008\Projects\Sida 1\Sida 1\obj\Debug\Sida 1.csproj.GenerateResource.Cache
+C:\Users\Chrille\Downloads\Sida 1\Sida 1\Sida 1\obj\Debug\Sida 1.exe
+C:\Users\Chrille\Downloads\Sida 1\Sida 1\Sida 1\obj\Debug\Sida 1.pdb
+C:\Users\Chrille\Downloads\Sida 1\Sida 1\Sida 1\bin\Debug\Sida 1.exe
+C:\Users\Chrille\Downloads\Sida 1\Sida 1\Sida 1\bin\Debug\Sida 1.pdb
+C:\Users\Chrille\Downloads\Sida 1\Sida 1\Sida 1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chrille\Downloads\Sida 1\Sida 1\Sida 1\obj\Debug\Sida_1.Form1.resources
+C:\Users\Chrille\Downloads\Sida 1\Sida 1\Sida 1\obj\Debug\Sida_1.Properties.Resources.resources
+C:\Users\Chrille\Downloads\Sida 1\Sida 1\Sida 1\obj\Debug\ResGen.read.1.tlog
+C:\Users\Chrille\Downloads\Sida 1\Sida 1\Sida 1\obj\Debug\ResGen.write.1.tlog
+C:\Users\Chrille\Downloads\Sida 1\Sida 1\Sida 1\bin\Debug\Sida 1.exe.config
+C:\Documents and Settings\Admin\Mina dokument\Visual Studio 2008\Projects\Sida 1\Sida 1\bin\Debug\Sida 1.exe.config
+C:\Users\Chrille\Downloads\Sida 1 (1)\Sida 1\Sida 1\bin\Debug\Sida 1.exe.config
+C:\Users\Chrille\Downloads\Sida 1 (1)\Sida 1\Sida 1\obj\Debug\Sida 1.exe
+C:\Users\Chrille\Downloads\Sida 1 (1)\Sida 1\Sida 1\obj\Debug\Sida 1.pdb
+C:\Users\Chrille\Downloads\Sida 1 (1)\Sida 1\Sida 1\bin\Debug\Sida 1.exe
+C:\Users\Chrille\Downloads\Sida 1 (1)\Sida 1\Sida 1\bin\Debug\Sida 1.pdb
+C:\Users\Chrille\Downloads\Sida 1 (1)\Sida 1\Sida 1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chrille\Downloads\Sida 1 (1)\Sida 1\Sida 1\obj\Debug\Sida_1.Form1.resources
+C:\Users\Chrille\Downloads\Sida 1 (1)\Sida 1\Sida 1\obj\Debug\Sida_1.Properties.Resources.resources
+C:\Users\Chrille\Downloads\Sida 1 (1)\Sida 1\Sida 1\obj\Debug\ResGen.read.1.tlog
+C:\Users\Chrille\Downloads\Sida 1 (1)\Sida 1\Sida 1\obj\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\Admin\Skrivbord\Sida 1 (1)\Sida 1\Sida 1\bin\Debug\Sida 1.exe.config
+C:\Documents and Settings\Admin\Skrivbord\Sida 1 (1)\Sida 1\Sida 1\obj\Debug\Sida 1.exe
+C:\Documents and Settings\Admin\Skrivbord\Sida 1 (1)\Sida 1\Sida 1\obj\Debug\Sida 1.pdb
+C:\Documents and Settings\Admin\Skrivbord\Sida 1 (1)\Sida 1\Sida 1\bin\Debug\Sida 1.exe
+C:\Documents and Settings\Admin\Skrivbord\Sida 1 (1)\Sida 1\Sida 1\bin\Debug\Sida 1.pdb
+C:\Documents and Settings\Admin\Skrivbord\Sida 1 (1)\Sida 1\Sida 1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Skrivbord\Sida 1 (1)\Sida 1\Sida 1\obj\Debug\Sida_1.Form1.resources
+C:\Documents and Settings\Admin\Skrivbord\Sida 1 (1)\Sida 1\Sida 1\obj\Debug\Sida_1.Properties.Resources.resources
+C:\Documents and Settings\Admin\Skrivbord\Sida 1 (1)\Sida 1\Sida 1\obj\Debug\Sida 1.csproj.GenerateResource.Cache
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\bin\Debug\UUU.exe.config
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\bin\Debug\UUU.exe.manifest
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\bin\Debug\UUU.application
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\bin\Debug\UUU.exe
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\bin\Debug\UUU.pdb
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Debug\ResolveAssemblyReference.cache
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Debug\Sida_1.Form1.resources
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Debug\Sida_1.Properties.Resources.resources
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Debug\Sida 1.csproj.GenerateResource.Cache
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Debug\UUU.exe.manifest
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Debug\UUU.application
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Debug\UUU.exe
+F:\Dropbox\Uppsala Uppgift allt klart förutom färgen och placeringen\Sida 1\Sida 1\obj\Debug\UUU.pdb
